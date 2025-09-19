@@ -11,7 +11,7 @@ body {
 }
 
 header {
-  background-color: #0066cc;
+  background-color: #24dbea;
   padding: 40px 20px 20px;
   text-align: center;
   color: white;
@@ -41,7 +41,7 @@ main {
 .box {
   background-color: white;
   border: 1px solid #dbeaff;
-  border-left: 5px solid #0066cc;
+  border-left: 5px solid #24dbea;
   padding: 20px;
   margin-bottom: 20px;
   box-shadow: 0 2px 6px rgba(0, 102, 204, 0.1);
@@ -50,7 +50,7 @@ main {
 
 .box h2 {
   margin-bottom: 10px;
-  color: #0066cc;
+  color: #24dbea;
 }
 
 .skills ul {
@@ -59,7 +59,7 @@ main {
 }
 
 a {
-  color: #0066cc;
+  color: #24dbea;
   text-decoration: none;
 }
 
@@ -87,7 +87,7 @@ form textarea {
 form button {
   margin-top: 15px;
   padding: 10px;
-  background-color: #0066cc;
+  background-color: #24dbea;
   color: white;
   border: none;
   border-radius: 4px;
@@ -101,7 +101,7 @@ form button:hover {
 footer {
   text-align: center;
   padding: 15px;
-  background-color: #0066cc;
+  background-color: #24dbea;
   color: white;
   margin-top: 40px;
 }
